@@ -1,7 +1,7 @@
 # Rouge-Burgundy
 KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour scheme
 
-Kuninkaallinen väriteema heille, jotka arvostavat luksusta! Lightly 
+Kuninkaallinen väriteema heille, jotka arvostavat luksusta! Lightly sovellustyylillä ja Rounded Rectangle ikoneilla
 
 Un thème royal pour ceux qui apprécient le luxe! Avec Lightly style d'applications et Rounded Rectangle icônes
 
